@@ -1,0 +1,39 @@
+.header-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #2a2b2b;
+    
+}
+.nav-items-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 5%;
+}
+.items{
+    margin-left: 20px;
+    color: #cecfdb;
+    margin-top: 20px;
+}
+.joinBtn{
+    color: #ffffff;
+    border: 0px;
+    margin: 10px;
+    background-color: #5e6be0;
+    padding: 10px;
+    border-radius: 8px;
+}
+.icons{
+    margin-top: 24px;
+    margin-left: 14px;
+    font-size: 24px;
+    color: #ffffff;
+}
+.company-name{
+    margin-left: 5%;
+    color: #ffffff;
+}
+.class-link{
+    text-decoration: none;
+}

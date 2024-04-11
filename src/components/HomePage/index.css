@@ -1,0 +1,85 @@
+
+.image-slide{
+    width: 70%;
+    height: 60vh;
+    margin-left: 15%;
+}
+.home-container{
+    display: flex;
+    flex-direction: column;
+}
+.heading{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.student-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.comments-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.items-comments{
+    height: 15%;
+    width: 20%;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color:  #d4d5d6;
+}
+.comments{
+    font-size: 10px;
+    font-family: 'Roboto';
+}
+.name-performance-container{
+    background-color: #d4d5d6;
+    padding: 10px;
+}
+.name{
+    color: #111212;
+    font-weight: 500;
+    font-size: 20px;
+}
+.performance{
+    color:  #454647;
+}
+
+.commentsHeading{
+    font-size: 15px;
+}
+.location{
+    color: #ffffff;
+}
+.icons-container{
+    display: flex;
+    flex-direction: row;
+}
+.footer-section-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color:  #161717;
+    padding: 20px;
+}
+.contact-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+}
+.head{
+    color: #ffffff;
+    margin-top: 10px;
+}
+.icons{
+    color: #ffffff;
+    font-size: 12px;
+}
+.number{
+    color: #ffffff;
+    margin-top: 18px;
+}

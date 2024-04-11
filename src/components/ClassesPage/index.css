@@ -1,0 +1,21 @@
+.classes-items-container{
+    display: flex;
+    flex-direction: row;
+}
+.video-container{
+    margin-right: 10px;
+}
+.topic-description{
+    width: 50%;
+    margin-left: 10%;
+}
+.classes-container{
+    margin-top: 20px;
+}
+.practiceBtn{
+    border: 0px;
+    background-color: #292928;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 4px;
+}

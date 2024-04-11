@@ -1,0 +1,23 @@
+.products-items-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.topic-description{
+    width: 50%;
+    margin-left: 10%;
+}
+.products-container{
+    margin-top: 20px;
+}
+.practiceBtn{
+    border: 0px;
+    background-color: #292928;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 4px;
+}
+.imgURL{
+    height: 200px;
+    width: 200px;
+}
